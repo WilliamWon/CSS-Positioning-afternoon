@@ -1,0 +1,153 @@
+body{
+    position:relative;
+    background-image: url(./images/disback.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: auto;
+}
+nav{
+    width:100%;
+    height: 144px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    padding: 40px
+}
+.MainLogo{
+    height: 64px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+ul{
+    height: 64px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 360px;
+}
+.sub{
+    height:40px;
+    width:12%;
+    border-radius: 1100px;
+    border-width: 2px;
+    border-color: white;
+    background-color: transparent;
+    color: white;
+}
+.Main-text{
+    height:370px;
+    width:100%;
+    position:relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 48px;
+}
+h2{
+    margin-top: 17px;
+    margin-bottom: 18px;
+}
+
+.footer{
+    width:100%;
+    height:189px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    
+
+}
+.invie{
+    width:20%;
+    padding-left:57px;
+    padding-top:33px;
+}
+.scrolie{
+    width:60%;
+    padding-top:142px;
+}
+.scroll{
+    margin: auto;
+    width: 30px;
+}
+.social{
+    width:20%;
+    display:flex;
+    flex-direction: column;
+    align-items: left;
+    padding-left: 175px;
+
+}
+.si{
+    width:auto;
+}
+
+
+
+/*--------   Text Styles   -------*/
+
+li {
+    font-size: 11px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    letter-spacing: 2px;
+    color: white;
+
+}
+.sub{
+    font-size: 11px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.designbetter{
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: white;
+}
+
+h2{
+    font-size: 56px;
+    line-height: 68.32px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: white;
+    letter-spacing: 1.5px;
+}
+.Intro {
+    text-align: center;
+    line-height: 34.24px;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    color: white;
+    letter-spacing: .5px;
+}
+.Explore{
+    height:40px;
+    width:12%;
+    border-radius: 1100px;
+    background-color: white;
+    margin-top:25px;
+}
+.exTag{
+    font-family: 'Roboto', sans-serif;
+    font-size: 11px;
+    color: #0828cc;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+.scroll{
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    color: white;
+    letter-spacing: 1px;
+}
+
+
